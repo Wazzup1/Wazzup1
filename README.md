@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Wazzup1
-- 🌱 I’m currently learning Data Science
 - 📫 How to reach me t.me/pikunov
 
 <!---
